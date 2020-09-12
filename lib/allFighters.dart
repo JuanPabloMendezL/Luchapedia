@@ -72,7 +72,7 @@ class AllFighters extends StatelessWidget {
                 height: 125,
                 child: Stack(children: [
                   FadeInImage.assetNetwork(
-                    placeholder: "Luchadores/loading.gif",
+                    placeholder: "assets/Luchadores/loading.gif",
                     image: urlHeroina,
                     width: 120,
                     height: 140,
@@ -104,7 +104,7 @@ class AllFighters extends StatelessWidget {
                 height: 125,
                 child: Stack(children: [
                   FadeInImage.assetNetwork(
-                    placeholder: "Luchadores/loading.gif",
+                    placeholder: "assets/Luchadores/loading.gif",
                     image: urlMistico,
                     width: 120,
                     height: 140,
@@ -136,7 +136,7 @@ class AllFighters extends StatelessWidget {
                 height: 125,
                 child: Stack(children: [
                   FadeInImage.assetNetwork(
-                    placeholder: "Luchadores/loading.gif",
+                    placeholder: "assets/Luchadores/loading.gif",
                     image: urlLaHiedra,
                     width: 120,
                     height: 140,
@@ -170,7 +170,7 @@ class AllFighters extends StatelessWidget {
                 height: 125,
                 child: Stack(children: [
                   FadeInImage.assetNetwork(
-                    placeholder: "Luchadores/loading.gif",
+                    placeholder: "assets/Luchadores/loading.gif",
                     image: urlParca,
                     width: 120,
                     height: 140,
@@ -202,7 +202,7 @@ class AllFighters extends StatelessWidget {
                 height: 125,
                 child: Stack(children: [
                   FadeInImage.assetNetwork(
-                    placeholder: "Luchadores/loading.gif",
+                    placeholder: "assets/Luchadores/loading.gif",
                     image: urlPrincesaAzul,
                     width: 120,
                     height: 140,
@@ -234,7 +234,7 @@ class AllFighters extends StatelessWidget {
                 height: 125,
                 child: Stack(children: [
                   FadeInImage.assetNetwork(
-                    placeholder: "Luchadores/loading.gif",
+                    placeholder: "assets/Luchadores/loading.gif",
                     image: urlMascaraSagrada,
                     width: 120,
                     height: 140,
@@ -268,7 +268,7 @@ class AllFighters extends StatelessWidget {
                 height: 125,
                 child: Stack(children: [
                   FadeInImage.assetNetwork(
-                    placeholder: "Luchadores/loading.gif",
+                    placeholder: "assets/Luchadores/loading.gif",
                     image: urlKeira,
                     width: 120,
                     height: 140,
@@ -300,7 +300,7 @@ class AllFighters extends StatelessWidget {
                 height: 125,
                 child: Stack(children: [
                   FadeInImage.assetNetwork(
-                    placeholder: "Luchadores/loading.gif",
+                    placeholder: "assets/Luchadores/loading.gif",
                     image: urlDosCaras,
                     width: 120,
                     height: 140,
@@ -332,7 +332,7 @@ class AllFighters extends StatelessWidget {
                 height: 125,
                 child: Stack(children: [
                   FadeInImage.assetNetwork(
-                    placeholder: "Luchadores/loading.gif",
+                    placeholder: "assets/Luchadores/loading.gif",
                     image: urlLadyFlammer,
                     width: 120,
                     height: 140,
@@ -366,7 +366,7 @@ class AllFighters extends StatelessWidget {
                 height: 125,
                 child: Stack(children: [
                   FadeInImage.assetNetwork(
-                    placeholder: "Luchadores/loading.gif",
+                    placeholder: "assets/Luchadores/loading.gif",
                     image: urlOctagon,
                     width: 120,
                     height: 140,
@@ -398,7 +398,7 @@ class AllFighters extends StatelessWidget {
                 height: 125,
                 child: Stack(children: [
                   FadeInImage.assetNetwork(
-                    placeholder: "Luchadores/loading.gif",
+                    placeholder: "assets/Luchadores/loading.gif",
                     image: urlBaronesa,
                     width: 120,
                     height: 140,
@@ -430,7 +430,7 @@ class AllFighters extends StatelessWidget {
                 height: 125,
                 child: Stack(children: [
                   FadeInImage.assetNetwork(
-                    placeholder: "Luchadores/loading.gif",
+                    placeholder: "assets/Luchadores/loading.gif",
                     image: urlAtlantis,
                     width: 120,
                     height: 140,
